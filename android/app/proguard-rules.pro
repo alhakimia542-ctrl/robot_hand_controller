@@ -1,0 +1,3 @@
+-dontwarn javax.annotation.processing.**
+-dontwarn javax.lang.model.**
+-dontwarn javax.annotation.**

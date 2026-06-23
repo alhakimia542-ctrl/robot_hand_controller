@@ -57,9 +57,9 @@ The system manages 10 distinct movements utilizing a hybrid mapping protocol. Co
 | **DC Motors (Chassis)** | Move Backward | **CV:** Open Hand |
 | **DC Motors (Chassis)** | Tank Turn (Right/Left) | **UI:** App On-Screen Buttons |
 | **Robotic Arm (Grip)** | Open / Close Claw | **CV:** Pinch Gesture |
-| **Robotic Arm (Base)** | Rotate Right / Left | **CV:** [Insert Gesture] |
-| **Robotic Arm (Lift)** | Lift Up / Down | **CV:** [Insert Gesture] |
-| **Robotic Arm (Extend)**| Extend Forward / Back | **CV:** [Insert Gesture] |
+| **Robotic Arm (Base)** | Rotate Right / Left | **CV:** [Pointing the index finger to the right or left] |
+| **Robotic Arm (Lift)** | Lift Up / Down | **CV:** [Thumb up or thumb down] |
+| **Robotic Arm (Extend)**| Extend Forward / Back | **CV:** [Three fingers with or without the index finger] |
 | **Entire System** | Emergency Stop (Hold) | **CV:** No Hand Detected |
 
 ## Installation and Setup Instructions
